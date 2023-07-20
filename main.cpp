@@ -12,5 +12,7 @@ int main()
     int e = c - d;
 
     printf ("%d\r\n",e);
+
+    return 0;
 }
 
